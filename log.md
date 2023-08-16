@@ -16,7 +16,7 @@
 
 ![Alt text](imgs/day2.png)
 
-### Day 3: August 17, 2023
+### Day 3: August 16, 2023
 
 **Today's Progress**: Created a modal popup & setup MongoDB
 
