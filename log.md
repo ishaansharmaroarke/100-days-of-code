@@ -8,7 +8,7 @@
 
 ![Alt text](imgs/day1.png)
 
-### Day 2: August 16, 2023
+### Day 2: August 15, 2023
 
 **Today's Progress**: Implemented a commands handler on the bot, and also created a slash command.
 
