@@ -23,3 +23,21 @@
 **Thoughts**: The modal popup part was decent. I finished working on all of this at 4 am in the morning, but that’s because I procrastinated on this thing the whole day. I followed a tutorial to create the modal popup and customized it based on my requirements. I also set up MongoDB in my project using Mongoose.
 
 ![Alt text](imgs/day3.png)
+
+### Day 4: August 17, 2023
+
+**Today’s Progress**: Created schema and function to push data to the database.
+
+**Thoughts**: I watched a lot of tutorials for this one. I learned some best practices, I think.
+
+### Day 5: August 18, 2023
+
+**Today’s Progress**: Hackerrank.
+
+**Thoughts**: I took a break from working on the Discord bot. I started doing random challenges on Hackerrank with a friend. It was good. I liked solving problems.
+
+### Day 6: August 19, 2023
+
+**Today’s Progress**: Hackerrank again!
+
+**Thoughts**: Again, I did Hackerrank only. I had a lot of work to do. This time I created a String Validation function in Python. I read the question wrong and created the functions myself so that took me one hour.
