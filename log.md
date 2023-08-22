@@ -55,3 +55,13 @@
 **Today’s Progress**: Didn't do much... except for just looking at my code.
 
 **Thoughts**: Was thinking how to refactor the code further. Which other functionalities to add, how to make it more readable and reusable. Not much coding.
+
+### Day 9: August 22, 2023
+
+**Today’s Progress**: Tried Web designing!
+
+**Thoughts**: I’ve made a lot of progress on the Discord bot so far. There are a few areas I still need to work on, but they’re not the biggest priority at the moment. I thought to go back to TheOdinProject and started building a weather app. I got the API part working but didn’t know how to display it on the site (design-wise). I opened Figma and started designing. Here’s what I came up with…
+
+![Alt text](imgs/day9.png)
+
+Yeah, it looks bad. I know. So what am I going to do for the next few days? Learn as much web design as I can and continue this project. Practice and practice. I don't know what I'm going to do but in the next 1-2 week, I expect to see a change in my web-designing skills.
