@@ -44,14 +44,14 @@
 
 ### Day 7: August 20, 2023
 
-**Today’s Progress**: Updated my bot's code
+**Today’s Progress**: Updated my bot's code.
 
-**Thoughts**: Refactored some of my code. Instead of hard-coding everything, tried to make it more dynamic and more reuseable. Honestly, good progress.
+**Thoughts**: Refactored some of my code. Instead of hard-coding everything, I tried to make it more dynamic and reusable. Honestly, good progress.
 
 ![Alt text](imgs/day7.png)
 
 ### Day 8: August 21, 2023
 
-**Today’s Progress**: Updated my bot's code
+**Today’s Progress**: Didn't do much... except for just looking at my code.
 
-**Thoughts**: Refactored some of my code. Instead of hard-coding everything, tried to make it more dynamic and more reuseable. Honestly, good progress.
+**Thoughts**: Was thinking how to refactor the code further. Which other functionalities to add, how to make it more readable and reusable. Not much coding.
