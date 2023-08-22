@@ -41,3 +41,17 @@
 **Today’s Progress**: Hackerrank again!
 
 **Thoughts**: Again, I did Hackerrank only. I had a lot of work to do. This time I created a String Validation function in Python. I read the question wrong and created the functions myself so that took me one hour.
+
+### Day 7: August 20, 2023
+
+**Today’s Progress**: Updated my bot's code
+
+**Thoughts**: Refactored some of my code. Instead of hard-coding everything, tried to make it more dynamic and more reuseable. Honestly, good progress.
+
+![Alt text](imgs/day7.png)
+
+### Day 8: August 21, 2023
+
+**Today’s Progress**: Updated my bot's code
+
+**Thoughts**: Refactored some of my code. Instead of hard-coding everything, tried to make it more dynamic and more reuseable. Honestly, good progress.
